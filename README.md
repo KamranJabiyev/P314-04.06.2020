@@ -6,7 +6,7 @@ Aptek uchun console app:
 
 1.TypeDrug - deye derman tipi classi olacaq. Unikal Id ve TypeName olacaq. tostring TypeName-ni qaytarmalidi
 
-2.Drug - derman classi.Name,unikal Id,Type(TypeName tipinden),price,count olacaq.ToString - Id,Name,Price ve Count qaytarmalidir.
+2.Drug - derman classi.Name,unikal Id,Type(TypeDrug tipinden),price,count olacaq.ToString - Id,Name,Price ve Count qaytarmalidir.
 
 3.Pharmacy - aptek classi. Name,unikal Id,drugArr olacaq.ToString - Id,Name arrayi qaytarmalidir. 
 AddDrug - methodu Drug gebul etmeli drugArr add elemelidir.
