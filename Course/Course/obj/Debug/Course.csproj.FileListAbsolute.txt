@@ -1,0 +1,6 @@
+E:\P314\Course\Course\bin\Debug\Course.exe.config
+E:\P314\Course\Course\bin\Debug\Course.exe
+E:\P314\Course\Course\bin\Debug\Course.pdb
+E:\P314\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+E:\P314\Course\Course\obj\Debug\Course.exe
+E:\P314\Course\Course\obj\Debug\Course.pdb
